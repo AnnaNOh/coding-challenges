@@ -40,3 +40,9 @@ beyond the US. The area code checker can also easily be changed to accomodate ot
 and slightly changing the array to hash conversion.
 
 As the instructions asked for conversion to a "normalized United States phone number", I only added a "+1" before the 10 digits to convert to E.164 format.
+
+
+AUTHOR: Anna Oh
+GitHub: https://github.com/AnnaNOh/coding-challenges/tree/master/Josh%20DeShong%20Real%20Estate
+LinkedIn: https://www.linkedin.com/in/annanoh/
+Profile Website: https://annanoh.github.io/profile-website/
